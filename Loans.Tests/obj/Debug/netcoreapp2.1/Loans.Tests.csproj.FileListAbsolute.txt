@@ -1,0 +1,17 @@
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Data.csv
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.deps.json
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.json
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.dev.json
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.pdb
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csprojAssemblyReference.cache
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfoInputs.cache
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfo.cs
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CopyComplete
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.pdb

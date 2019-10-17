@@ -1,0 +1,8 @@
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+C:\eduardo.herrera\4thSource\Training\UnitTesting\repos\UnitTestingExercise\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
